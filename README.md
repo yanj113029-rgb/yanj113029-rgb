@@ -38,9 +38,14 @@ Welcome to my GitHub profile! I am a software developer dedicated to **core C++ 
 ### 📊 GitHub Stats
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=yanj113029-rgb&show_icons=true&theme=radical&include_all_commits=true" alt="GitHub Stats" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yanj113029-rgb&layout=compact&theme=radical&hide=html,css" alt="Top Languages" height="150" />
+  <a href="https://github.com">
+    <img src="https://github-readme-stats-git-master-anuraghazra.vercel.app/api?username=yanj113029-rgb&show_icons=true&theme=radical&include_all_commits=true" alt="GitHub Stats" height="150" />
+  </a>
+  <a href="https://github.com">
+    <img src="https://github-readme-stats-git-master-anuraghazra.vercel.app/api/top-langs/?username=yanj113029-rgb&layout=compact&theme=radical&hide=html,css" alt="Top Languages" height="150" />
+  </a>
 </p>
+
 
 ---
 
